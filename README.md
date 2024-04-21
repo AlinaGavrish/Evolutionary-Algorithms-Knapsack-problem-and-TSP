@@ -1,6 +1,6 @@
 # Intelligent Systems Lab Assignment - Evolutionary Computation
 ## Overview
-This repository contains the implementation of genetic programming solutions for two standard AI problems: the Knapsack Problem and the Traveling Salesman Problem. The project includes the development of a generic genetic algorithm along with application-specific operators and fitness evaluation.
+This repository is created for educational purposes as part of the Intelligent Systems Lab Assignment. It aims to foster understanding of evolutionary computation techniques and encourage experimentation with genetic algorithms in solving combinatorial optimization problems.
 
 ## Features
 * Generic Genetic Algorithm: Design and implementation of a flexible genetic algorithm allowing easy customization of genotype representations, selection methods, crossover and mutation strategies, and various parameters.
